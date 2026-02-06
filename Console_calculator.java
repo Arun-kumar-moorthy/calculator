@@ -69,9 +69,6 @@ public class Calculator {
 			System.out.println("result" + " " + reset);
 			System.out.println();
 		}
-
-		int v = 77;
-		System.out.println(v);
 	}
 
 }
