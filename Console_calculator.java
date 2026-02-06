@@ -69,6 +69,9 @@ public class Calculator {
 			System.out.println("result" + " " + reset);
 			System.out.println();
 		}
+		int ar = 67;
+		int ak = 78;
+		System.out.println(ar + ak);
 	}
 
 }
